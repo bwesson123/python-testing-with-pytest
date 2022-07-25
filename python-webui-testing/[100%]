@@ -1,0 +1,9 @@
+ $ pipenv run python -m pytest
+ ============================= test session starts ==============================
+platform darwin -- Python 3.7.3, pytest-4.5.0, py-1.8.0, pluggy-0.12.0
+rootdir: /Users/andylpk247/Programming/automation-panda/python-webui-testing
+collected 1 item
+
+tests/test_math.py .                                                    [100%]
+
+=========================== 1 passed in 0.02 seconds ===========================
